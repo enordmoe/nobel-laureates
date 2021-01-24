@@ -3,5 +3,7 @@
 
 Data wrangling lab dealing with Nobel laureates. See Moodle for (instructions and links to background information)[https://moodle.kzoo.edu/mod/resource/view.php?id=209575]
 
-This repository contains a template for the write-up and the data set to use.
+This repository contains a template for the write-up and the data set to use. 
+
+**Note:** Extensions are possible but let me know if your group needs one.
 
